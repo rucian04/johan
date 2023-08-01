@@ -1,0 +1,64 @@
+
+
+.bg-adso{
+    background: #641ce9;
+}
+
+#nosotros{
+    width: 100%;
+    position: relative;
+    padding: 120px 0;
+}
+
+#nosotros h2{
+    color: blueviolet;
+    font-size: 32px;
+}
+
+#servicios{
+    padding: 100px 0;
+    width: 100%;
+    position: relative;
+}
+
+.card-servicios{
+    border: 2px solid #5520e7;
+    max-width: 320px;
+    margin: 10px auto;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.card-servicios img{
+border-radius: 10px 10px 0 0;
+}
+
+.card-servicios h3{
+    padding: 10px;
+}
+
+.card-servicios p{
+    padding: 10px;
+    color: #666;
+}
+
+#preguntas{
+    padding: 100px 0;
+    width: 100%;
+    position: relative;
+}
+
+#preguntas h2{
+    margin-bottom: 20px;
+}
+#preguntas img{
+    border-radius: 10px 10px 10px 10px;
+    border: 2px solid #5520e7;
+    max-width: 320px;
+    margin: 10px auto;
+    padding: 0;
+    border-radius: 10px;
+}
+#footer{
+    background: blueviolet;
+}
